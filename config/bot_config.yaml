@@ -1,0 +1,6 @@
+bots:
+  - name: binformation_bot
+    type: BinformationBot
+
+  - name: teaformation_bot
+    type: TeaformationBot
