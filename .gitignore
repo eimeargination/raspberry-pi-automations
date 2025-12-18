@@ -29,3 +29,8 @@ logs/
 .pytest_cache/
 .coverage
 htmlcov/
+
+# Data
+data/
+*.db
+*.db-journal
